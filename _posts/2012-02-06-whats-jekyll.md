@@ -3,10 +3,27 @@ layout: post
 title: What's Jekyll?
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+  * 黄勇    1177  shell_BNU    0.833448
+  * 黄天佑   1414  Ray_bnu      0.816183
+  * 王琳     1420 	xiaobai_bnu  0.815609
+  * 杨爱琼   1424	WHWSHK_bnu   0.814885
+  * 陈闯霞   1432	ChangeBNU    0.813605
+  * 邱睿     1438	goldfish_bnu 0.812721
+  * 冯胜男   1855	1903_bnu     0.501690
+  * 韩昱馨   1877	jenny_bnu    0.500449
+  * 牛苗苗   1927	mmn_bnu      0.500000
+  * 周凯     1953	kgg_bnu      0.500000
+  * 郭宝迪   1958	livrebnu     0.500000
+  * 陶丽敏   1959	tlmbnu       0.500000
+  * 孙京博   1960	Jumbo_bnu    0.500000
+  * 任梅    1961  may_bnu      0.500000
+  * 李娥    1964	e9494bnu     0.500000
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+  1846	new
+zizibnu
+0.502290
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+1875	new
+hjwbnu
+0.500532
